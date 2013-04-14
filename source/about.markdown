@@ -37,15 +37,15 @@ footer: true
 
 懇親会をご希望の方は、ご近所コミュニティである[Tokyu.rb - Tokyu.rb](http://qwik.jp/tokyurb/)にご参加ください。
 
-活動状況やミートアップの開催告知は[twitter](https://twitter.com/megurorb)や[facebook](https://www.facebook.com/megurorb)で行います。
+活動状況やミートアップの開催告知は<span class="lsf-icon" title="twitter"></span>[@megurorb](https://twitter.com/megurorb)や<span class="lsf-icon" title="facebook">[Meguro.rb](https://www.facebook.com/megurorb)で行います。
 
 ### 参加するには
 
-[megurorb/members · GitHub](https://github.com/megurorb/members) を参照し、Pull Requestを送ってください。
+<span class="lsf-icon" title="github"></span>[megurorb/members](https://github.com/megurorb/members) を参照し、Pull Requestを送ってください。
 
 ## Links
 
-* [megurorb (Meguro.rb) - GitHub](https://github.com/megurorb)
-* [Meguro.rb (megurorb) on Twitter](https://twitter.com/megurorb)
-* [Meguro.rb - facebook](https://www.facebook.com/megurorb)
+* <span class="lsf-icon" title="github"></span>[Meguro.rb](https://github.com/megurorb)
+* <span class="lsf-icon" title="twitter"></span>[@megurorb](https://twitter.com/megurorb)
+* <span class="lsf-icon" title="facebook"></span>[Meguro.rb](https://www.facebook.com/megurorb)
 

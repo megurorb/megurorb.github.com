@@ -41,3 +41,6 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
+
+$default-color: #8f9bab;
+$text-color: lighten($default-color, 20%);
