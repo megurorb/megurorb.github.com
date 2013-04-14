@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "about Meguro.rb"
-date: 2013-04-13 16:13
+title: "About Meguro.rb"
 comments: true
 sharing: true
 footer: true
