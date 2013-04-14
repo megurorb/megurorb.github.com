@@ -1,0 +1,28 @@
+---
+layout: page
+footer: true
+---
+<div id="member_list">
+<h1>Meguro.rb are :</h1>
+{% for members in page.member_list %}
+  <div class="members">
+  <h2>{{ members[0] }}</h2>
+  {% for member in members[1] %}
+    <div class="member">
+      <h3>{{ member.name }}</h3>
+      <ul>
+        {% if member.twitter %}
+          <li><span class="lsf-icon" title="twitter"></span><a href="http://twitter.com/{{ member.twitter }}" target="_blank">@{{ member.twitter }}</a></li>
+        {% endif %}
+        {% if member.github %}
+          <li><span class="lsf-icon" title="github"></span><a href="https://github.com/{{ member.github }}" target="_blank">{{ member.github }}</a></li>
+        {% endif %}
+        {% if member.website %}
+          <li><span class="lsf-icon" title="link"></span><a href="{{ member.website }}" target="_blank">{{ member.website }}</a></li>
+        {% endif %}
+      </ul>
+    </div>
+  {% endfor %}
+  </div>
+{% endfor %}
+</div>

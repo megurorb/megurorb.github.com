@@ -94,3 +94,6 @@ google_analytics_tracking_id: UA-40000552-1
 # Facebook Like
 facebook_like: true
 
+# Members page
+members_page: true
+member_list_url: https://raw.github.com/megurorb/members/master/members.yml
