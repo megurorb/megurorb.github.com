@@ -25,11 +25,11 @@ Meguor.rbについて、参加方法、公式リンクなどは「[About Meguro.
 <script async class="speakerdeck-embed" data-id="efda37a080be0130d10012313d21dce8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### 2013年4月8日
-[megurorb/members · GitHub](https://github.com/megurorb/members)にて参加受付が始まりました。
+<span class="lsf-icon" title="github"></span>[megurorb/members](https://github.com/megurorb/members)にて参加受付が始まりました。
 
 ## 今後の予定
 
-ゴールデンウイーク明けに、目黒近辺の会場で第1回のミートアップを計画しています。告知は[twitter](https://twitter.com/megurorb)や[facebook](https://www.facebook.com/megurorb)で行います。
+ゴールデンウイーク明けに、目黒近辺の会場で第1回のミートアップを計画しています。告知は<span class="lsf-icon" title="twitter"></span>[@megurorb](https://twitter.com/megurorb)や<span class="lsf-icon" title="facebook">[Meguro.rb](https://www.facebook.com/megurorb)で行います。
 
 それでは、Meguro.rbをよろしくお願いします！
 
