@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Meetup 16 May 2013"
+date: 2013-05-10 19:30
+comments: true
+categories: meetup
+---
+
+第1回ミートアップのご案内です。
+
+## いつどこでやるの？
+
+* 日時：2013-05-16(Thu) 19:45〜22:00くらい
+* 場所：[クックパッド株式会社](http://info.cookpad.com/) ラウンジ ([地図](http://info.cookpad.com/location))
+
+## 参加するには？
+
+参加の事前登録は必要ありません。
+
+参加ご希望の方は、当日19:45〜19:55のあいだに、[会場](http://info.cookpad.com/location)の1Fロビーに集合してください。順次ご案内します。
+
+運営とセキュリティの都合上、遅刻者のフォローはいたしません。ご注意ください。
+
+参考 : [MySQL Casualにおける 事前登録不要/先着順受付 という開催方式に関する報告 - myfinderのはてなブログ](http://myfinder.hatenablog.com/entry/2013/04/18/022651)
+
+## なにをやるの？
+
+work in progress
+
+お題を用意してコードを書き、GitHubでコードレビューする、みたいなことをする予定です。
+
+## どんな場所？
+
+机、椅子、電源、Wi-Fi、プロジェクタがあります。飲食可能です。
+
+## 必要なものは？
+
+Rubyの開発が可能なノートPCと、GitHubのアカウントを用意してください。
+
+事前に[About Meguro.rb - Meguro.rb](/about.html)をお読みください。コントリビューションに参加するには、<span class="lsf-icon" title="github"></span>[megurorb/members](https://github.com/megurorb/members)からメンバー登録をすませておくことをおすすめします。
+
+## それでは
+
+当日お待ちしております！
+
