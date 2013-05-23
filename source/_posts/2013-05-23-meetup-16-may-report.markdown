@@ -18,7 +18,7 @@ categories: [meetup, report]
 
 レビューの様子は<span class="lsf-icon" title="github"></span>[Issues · megurorb/sit-up](https://github.com/megurorb/sit-up/issues?state=closed) で読むことができます。
 
-参加者の様子は、meguro.rbのメンバーであり参加者であり当日引っ張ってくれた<span class="lsf-icon" title="twitter"></span>[@rosylilly](https://twitter.com/rosylilly)の<span class="lsf-icon" title="hatena"></span>[目黒.rb meetup #1 - 鳩舎](http://rosylilly.hatenablog.com/entry/2013/05/16/234905)で読むことができます。
+会場の様子は、meguro.rbのメンバーであり参加者であり当日引っ張ってくれた<span class="lsf-icon" title="twitter"></span>[@rosylilly](https://twitter.com/rosylilly)の<span class="lsf-icon" title="hatena"></span>[目黒.rb meetup #1 - 鳩舎](http://rosylilly.hatenablog.com/entry/2013/05/16/234905)で読むことができます。
 
 <span class="lsf-icon" title="twitter"></span>[#megurorb](https://twitter.com/search?q=%23megurorb)の様子は[Meguro.rb meetup 2013-05-16 #megurorb - Togetter](http://togetter.com/li/506492)にまとまっています。
 
