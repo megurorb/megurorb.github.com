@@ -3,7 +3,7 @@ layout: post
 title: "Hello, World!"
 date: 2013-04-13 16:54
 comments: true
-categories: 
+categories: info
 ---
 
 東京・目黒を拠点とする地域Rubyコミュニティ「Meguro.rb」へようこそ。
