@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://megurorb.github.io/sitemap.xml 

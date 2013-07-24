@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meetup | Meguro.rb]]></title>
+  <link href="http://megurorb.github.io/blog/categories/meetup/atom.xml" rel="self"/>
+  <link href="http://megurorb.github.io/"/>
+  <updated>2013-07-24T20:08:26+09:00</updated>
+  <id>http://megurorb.github.io/</id>
+  <author>
+    <name><![CDATA[Meguro.rb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup 20 June 2013]]></title>
+    <link href="http://megurorb.github.io/blog/2013/06/15/meetup-20-june-2013/"/>
+    <updated>2013-06-15T17:30:00+09:00</updated>
+    <id>http://megurorb.github.io/blog/2013/06/15/meetup-20-june-2013</id>
+    <content type="html"><![CDATA[<p>2013年6月、ミートアップのご案内です。</p>
+
+<h2>いつどこでやるの？</h2>
+
+<ul>
+<li>日時：2013-06-20(Thu) 19:45〜22:00くらい</li>
+<li>場所：<a href="http://info.cookpad.com/">クックパッド株式会社</a> ラウンジ (<a href="http://info.cookpad.com/location">地図</a>)</li>
+</ul>
+
+
+<h2>参加するには？</h2>
+
+<p>定員は20名です。参加の事前登録は必要ありません。</p>
+
+<p>参加ご希望の方は、当日19:45〜19:55のあいだに、<a href="http://info.cookpad.com/location">会場</a>の1Fロビーに集合してください。定員に達するまで、順次ご案内します。</p>
+
+<p>運営と会場セキュリティの都合上、遅刻者のフォローはいたしません。ご注意ください。</p>
+
+<p>参考 : <a href="http://myfinder.hatenablog.com/entry/2013/04/18/022651">MySQL Casualにおける 事前登録不要/先着順受付 という開催方式に関する報告 - myfinderのはてなブログ</a></p>
+
+<h2>なにをやるの？</h2>
+
+<p>work in progress</p>
+
+<p>お題を用意してコードを書き、GitHubでコードレビューする、みたいなことをする予定です。</p>
+
+<p>今回は先日シーズン2が始まった<a href="http://rubykaigi.org/2013">RubyKaigi</a>のネタをやろうかなー、と思っています。</p>
+
+<h2>どんな場所？</h2>
+
+<p>机、椅子、電源、Wi-Fi、プロジェクタがあります。飲食可能です。</p>
+
+<h2>必要なものは？</h2>
+
+<p>Rubyの開発が可能なノートPCと、GitHubのアカウントを用意してください。</p>
+
+<p>事前に<a href="/about.html">About Meguro.rb - Meguro.rb</a>をお読みください。<span class="lsf-icon" title="github"></span><a href="https://github.com/megurorb/members">megurorb/members</a>からorganizationへの登録をすませておくことをおすすめします。</p>
+
+<h2>それでは</h2>
+
+<p>当日お待ちしております！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup 16 May Report]]></title>
+    <link href="http://megurorb.github.io/blog/2013/05/23/meetup-16-may-report/"/>
+    <updated>2013-05-23T13:00:00+09:00</updated>
+    <id>http://megurorb.github.io/blog/2013/05/23/meetup-16-may-report</id>
+    <content type="html"><![CDATA[<p>5/16、最初のミートアップが<a href="http://info.cookpad.com/">クックパッド株式会社</a>で開催されました。</p>
+
+<h2>お題</h2>
+
+<p>「残念なコードをリファクタリングして、その結果をレビューしよう」</p>
+
+<p><span class="lsf-icon" title="github"></span><a href="https://github.com/megurorb/sit-up">megurorb/sit-up · GitHub</a> には、残念なコードがあります。これをリファクタリングし、pull-requestを出し、レビューをしてもらいました。</p>
+
+<h2>当日の様子</h2>
+
+<p>レビューの様子は<span class="lsf-icon" title="github"></span><a href="https://github.com/megurorb/sit-up/issues?state=closed">Issues · megurorb/sit-up</a> で読むことができます。</p>
+
+<p>会場の様子は、meguro.rbのメンバーであり参加者であり当日引っ張ってくれた<span class="lsf-icon" title="twitter"></span><a href="https://twitter.com/rosylilly">@rosylilly</a>の<span class="lsf-icon" title="hatena"></span><a href="http://rosylilly.hatenablog.com/entry/2013/05/16/234905">目黒.rb meetup #1 - 鳩舎</a>で読むことができます。</p>
+
+<p><span class="lsf-icon" title="twitter"></span><a href="https://twitter.com/search?q=%23megurorb">#megurorb</a>の様子は<a href="http://togetter.com/li/506492">Meguro.rb meetup 2013-05-16 #megurorb - Togetter</a>にまとまっています。</p>
+
+<h2>今後の予定</h2>
+
+<p>今回不参加の方も、<a href="https://github.com/megurorb/sit-up">megurorb/sit-up · GitHub</a>へpull-reuqestを送ることでレビューを受けることができます。また、トレーニングになりそうなネタのpull-requestもお待ちしています。</p>
+
+<p>次回Meet Upは6/20(木)を予定しています。アナウンスは<span class="lsf-icon" title="github"></span><a href="https://github.com/megurorb">Meguro.rb</a>、<span class="lsf-icon" title="twitter"></span><a href="https://twitter.com/megurorb">@megurorb</a>、<span class="lsf-icon" title="facebook"></span><a href="https://www.facebook.com/megurorb">Meguro.rb</a>などで行います。</p>
+
+<h2>お礼と告知</h2>
+
+<p>参加いただいた方、ありがとうございました！</p>
+
+<p>なお、会場となった<a href="http://info.cookpad.com/">クックパッド株式会社</a>では6/15〜16、<a href="http://info.cookpad.com/24contest4">エンジニア向け「第4回 開発コンテスト24」</a>を開催します。こちらもぜひご参加ください！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup 16 May 2013]]></title>
+    <link href="http://megurorb.github.io/blog/2013/05/10/meetup-16-may-2013/"/>
+    <updated>2013-05-10T19:30:00+09:00</updated>
+    <id>http://megurorb.github.io/blog/2013/05/10/meetup-16-may-2013</id>
+    <content type="html"><![CDATA[<p>第1回ミートアップのご案内です。</p>
+
+<h2>いつどこでやるの？</h2>
+
+<ul>
+<li>日時：2013-05-16(Thu) 19:45〜22:00くらい</li>
+<li>場所：<a href="http://info.cookpad.com/">クックパッド株式会社</a> ラウンジ (<a href="http://info.cookpad.com/location">地図</a>)</li>
+</ul>
+
+
+<h2>参加するには？</h2>
+
+<p>定員は20名です。参加の事前登録は必要ありません。</p>
+
+<p>参加ご希望の方は、当日19:45〜19:55のあいだに、<a href="http://info.cookpad.com/location">会場</a>の1Fロビーに集合してください。定員に達するまで、順次ご案内します。</p>
+
+<p>運営とセキュリティの都合上、遅刻者のフォローはいたしません。ご注意ください。</p>
+
+<p>参考 : <a href="http://myfinder.hatenablog.com/entry/2013/04/18/022651">MySQL Casualにおける 事前登録不要/先着順受付 という開催方式に関する報告 - myfinderのはてなブログ</a></p>
+
+<h2>なにをやるの？</h2>
+
+<p>work in progress</p>
+
+<p>お題を用意してコードを書き、GitHubでコードレビューする、みたいなことをする予定です。</p>
+
+<h2>どんな場所？</h2>
+
+<p>机、椅子、電源、Wi-Fi、プロジェクタがあります。飲食可能です。</p>
+
+<h2>必要なものは？</h2>
+
+<p>Rubyの開発が可能なノートPCと、GitHubのアカウントを用意してください。</p>
+
+<p>事前に<a href="/about.html">About Meguro.rb - Meguro.rb</a>をお読みください。コントリビューションに参加するには、<span class="lsf-icon" title="github"></span><a href="https://github.com/megurorb/members">megurorb/members</a>からメンバー登録をすませておくことをおすすめします。</p>
+
+<h2>それでは</h2>
+
+<p>当日お待ちしております！</p>
+]]></content>
+  </entry>
+  
+</feed>

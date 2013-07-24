@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: info | Meguro.rb]]></title>
+  <link href="http://megurorb.github.io/blog/categories/info/atom.xml" rel="self"/>
+  <link href="http://megurorb.github.io/"/>
+  <updated>2013-07-24T20:08:26+09:00</updated>
+  <id>http://megurorb.github.io/</id>
+  <author>
+    <name><![CDATA[Meguro.rb]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, World!]]></title>
+    <link href="http://megurorb.github.io/blog/2013/04/13/hello-world/"/>
+    <updated>2013-04-13T16:54:00+09:00</updated>
+    <id>http://megurorb.github.io/blog/2013/04/13/hello-world</id>
+    <content type="html"><![CDATA[<p>東京・目黒を拠点とする地域Rubyコミュニティ「Meguro.rb」へようこそ。</p>
+
+<h2>Aboutページを作りました</h2>
+
+<p>Meguor.rbについて、参加方法、公式リンクなどは「<a href="/about.html">About Meguro.rb</a>」にまとまっています。</p>
+
+<h2>誕生と告知</h2>
+
+<h3>2013年4月3日</h3>
+
+<p>オーガナイザの3人が目黒「<a href="http://tabelog.com/tokyo/A1316/A131601/13111849/">静内</a>」に集まり、キックオフが行われました。</p>
+
+<h3>2013年4月6日</h3>
+
+<p><a href="http://everyleaf.com/">株式会社万葉</a>の6周年記念イベントである<a href="http://everyleaf.github.io/kaigi/">万葉.rb</a>で告知LTをしました。</p>
+
+<script async class="speakerdeck-embed" data-id="efda37a080be0130d10012313d21dce8" data-ratio="1.33333333333333" src="http://megurorb.github.io//speakerdeck.com/assets/embed.js"></script>
+
+
+<h3>2013年4月8日</h3>
+
+<p><span class="lsf-icon" title="github"></span><a href="https://github.com/megurorb/members">megurorb/members</a>にて参加受付が始まりました。</p>
+
+<h2>今後の予定</h2>
+
+<p>ゴールデンウイーク明けに、目黒近辺の会場で第1回のミートアップを計画しています。告知は<span class="lsf-icon" title="twitter"></span><a href="https://twitter.com/megurorb">@megurorb</a>や<span class="lsf-icon" title="facebook"><a href="https://www.facebook.com/megurorb">Meguro.rb</a>で行います。</p>
+
+<p>それでは、Meguro.rbをよろしくお願いします！</p>
+]]></content>
+  </entry>
+  
+</feed>
